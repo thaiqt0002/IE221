@@ -5,9 +5,9 @@
 4. Câu 10 ✔️
 5. Câu 11 ✔️
 6. Câu 13 ✔️
-7. Câu 16 (Chưa nhận xét) ✔️
-8. Câu 17 (Chưa nhận xét) ✔️
-9. Câu 25 (Chưa nhận xét) ✔️
+7. Câu 16 ✔️
+8. Câu 17 ✔️
+9. Câu 25 ✔️
 
 - **Bài tập Statistics:**
 1. Bài 1
