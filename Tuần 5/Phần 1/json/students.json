@@ -1,0 +1,24 @@
+{
+    "class": {
+        "student": [
+            {
+                "firstname": "Dinkar",
+                "lastname": "Kad",
+                "nickname": "Dinkar",
+                "marks": 85
+            },
+            {
+                "firstname": "Vaneet",
+                "lastname": "Gupta",
+                "nickname": "Vinni",
+                "marks": 95
+            },
+            {
+                "firstname": "Jasvir",
+                "lastname": "Singh",
+                "nickname": "Jazz",
+                "marks": 90
+            }
+        ]
+    }
+}
