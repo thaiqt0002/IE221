@@ -6,15 +6,25 @@ MSSV_HoTen
      |__ Các file bài làm
 
 1. **Vẽ đồ họa với Turtle**
-- Bài tập cần làm: Bài tập 14, 16, 18.
-- Hướng dẫn làm bài:
+- **Bài tập cần làm:** 
+- [x] Bài tập 14
+- [x] Bài tập 16
+- [x] Bài tập 18
+- **Hướng dẫn làm bài:**
 Trình bày rõ ràng, có chú thích câu hỏi, chạy sẵn ra kết quả.
 Mỗi bài tập bao gồm các file sau:
 Source code trình bày theo định dạng file .py, đặt tên Cau_STT.py (mỗi câu 1 file).
 Các ảnh chụp kết quả trình bày theo định dạng file .png hoặc .jpg, đặt tên Cau_STT.png hoặc .jpg (mỗi câu 1 file).
 
 2. **Kiểm thử mã nguồn với PyTest**
-- Bài tập cần làm: Bài tập 1, 2, 3, 4, 7, 14, 15.
+- **Bài tập cần làm:** 
+- [ ] Bài tập 1
+- [ ] Bài tập 2
+- [ ] Bài tập 3
+- [ ] Bài tập 4
+- [ ] Bài tập 7
+- [ ] Bài tập 14
+- [ ] Bài tập 15.
 - Hướng dẫn làm bài:
 Trình bày rõ ràng, có chú thích câu hỏi, chạy sẵn ra kết quả.
 Mỗi bài tập bao gồm các file sau:
