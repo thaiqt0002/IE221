@@ -14,4 +14,4 @@
 - [x] Tuần 4 phần 1: Pandas & Matplotlib
 - [x] Tuần 4 phần 2: Stastic lib
 - [x] Tuần 5: Web crawler & Json interact & Turtle
-- [ ] Tuần 6: Assert + Pytest
+- [x] Tuần 6: Assert + Pytest
